@@ -1,7 +1,7 @@
 # Data Structure List
 
 - Table of contents
-  - 1. Arrays
+  - 1. [Arrays](./1. Arrays)
   - 2. Hash Tables
   - 3. Linked Lists
   - 4. Stacks
