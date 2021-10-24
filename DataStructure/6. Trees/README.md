@@ -1,5 +1,25 @@
 # 6. Trees
 
+## Binary Tree
+
+Perfect Binary Tree
+
+Full Bunary Tree
+
+1 or 0 child node
+
+### Binary Search Tree (BST)
+
+It's called **ordered** or **sorted binary tree**
+|Algorithm |Average | Worst case |
+|--|--|--|
+|**Space** | O(_n_) | O(_n_) |
+|**Search** | O(log _n_) | O(_n_) |
+|**Insert** | O(log _n_) | O(_n_) |
+|**Delete** | O(log _n_) | O(_n_) |
+
+- ## Type of trees covered here:
+
 ## Resources
 
 [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI&ab_channel=freeCodeCamp.org)
