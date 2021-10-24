@@ -14,12 +14,29 @@ It's called **ordered** or **sorted binary tree** is a binary tree in which each
 that satisfies **BTS property**: _All vertices in the left subtree of a vertex must hold a value smaller than its_
 _own and all vertices in the right subtree of a vertex must hold a value larger than its own_
 
-| Algorithm  | Average    | Worst case |
-| ---------- | ---------- | ---------- |
-| **Space**  | O(_n_)     | O(_n_)     |
-| **Search** | O(log _n_) | O(_n_)     |
-| **Insert** | O(log _n_) | O(_n_)     |
-| **Delete** | O(log _n_) | O(_n_)     |
+| Algorithm  | Average      | Worst case     |
+| ---------- | ------------ | -------------- |
+|            | **Balanced** | **Unbalanced** |
+| **Space**  | O(_n_)       | O(_n_)         |
+| **Search** | O(log _n_)   | O(_n_)         |
+| **Insert** | O(log _n_)   | O(_n_)         |
+| **Delete** | O(log _n_)   | O(_n_)         |
+
+**Unbalanced BTS** is like to have a **LinkedList** the run time
+increase to O(_n_).
+
+    [101]
+       \
+        \
+         \
+        [105]
+         / \
+        /   \
+       /     \
+    [102]   [144]
+               \
+                \
+               [231]
 
 - ## Type of trees covered here:
 
