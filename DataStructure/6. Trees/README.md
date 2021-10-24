@@ -36,6 +36,16 @@ increase to O(_n_).
               \
              (231)
 
+The corresponding time and space is:
+
+| Algorithm  | Worst case     |
+| ---------- | -------------- |
+|            | **Unbalanced** |
+| **Space**  | O(_n_)         |
+| **Search** | O(_n_)         |
+| **Insert** | O(_n_)         |
+| **Delete** | O(_n_)         |
+
 - ## Type of trees covered here:
 
 ## Resources
