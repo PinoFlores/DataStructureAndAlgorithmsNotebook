@@ -22,8 +22,9 @@ _own and all vertices in the right subtree of a vertex must hold a value larger 
 | **Insert** | O(log _n_)   | O(_n_)         |
 | **Delete** | O(log _n_)   | O(_n_)         |
 
-**Unbalanced BTS** is like to have a **LinkedList** the run time
-increase to O(_n_).
+#### **Unbalanced BTS**
+
+Is like to have a **LinkedList** the run time increase to O(_n_).
 
     (101)
        \
