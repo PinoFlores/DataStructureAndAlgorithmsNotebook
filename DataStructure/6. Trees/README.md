@@ -25,18 +25,16 @@ _own and all vertices in the right subtree of a vertex must hold a value larger 
 **Unbalanced BTS** is like to have a **LinkedList** the run time
 increase to O(_n_).
 
-    [101]
+    (101)
        \
         \
-         \
-        [105]
-         / \
-        /   \
-       /     \
-    [102]   [144]
-               \
-                \
-               [231]
+       (105)
+        / \
+       /   \
+    (102) (144)
+             \
+              \
+             (231)
 
 - ## Type of trees covered here:
 
