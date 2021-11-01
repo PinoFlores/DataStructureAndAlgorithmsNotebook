@@ -87,7 +87,7 @@ vector.length = 5
 
 **Javascript Demo**
 
-```
+```js
 const fruits = ['Apple', 'Orange', 'Mango', 'Grape', 'Melon']; // <= Space O(n)
 
 const primeraFruta = fruits[0]; // Applet <= Time O(1) : Acceso
